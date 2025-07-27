@@ -19,7 +19,7 @@ The initial version of Axonide is focused on a polished core experience:
 
 ## Tech Stack
 
-Axonide is built with a modern, type-safe, and efficient technology stack, chosen to maximize both performance and developer productivity [1]:
+Axonide is built with a modern, type-safe, and efficient technology stack, chosen to maximize both performance and developer productivity:
 
   - **Framework:** [Svelte](https://kit.svelte.dev/)
   - **Language:** [TypeScript](https://www.typescriptlang.org/)
