@@ -96,6 +96,3 @@ Don't know where to start? Check out the `good first issue` label on our issues 
 ## License
 
 Distributed under the GNU AGPLv3 License. See `LICENSE` for more information. choice was made to ensure that Axonide and any of its derivatives will always remain free and open-source for the community.
-
-```
-```
